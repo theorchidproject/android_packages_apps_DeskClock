@@ -92,6 +92,7 @@
 
     <style name="navText">
         <item name="android:textSize">12sp</item>
+		<item name="colorControlActivated">?attr/colorAccent</item>
     </style>
 
     <style name="Widget.ActionBar" parent="Widget.AppCompat.ActionBar">

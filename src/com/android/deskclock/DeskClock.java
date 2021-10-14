@@ -22,6 +22,8 @@ import android.animation.AnimatorSet;
 import android.animation.ValueAnimator;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.graphics.drawable.Drawable;
+import android.graphics.PorterDuff; 
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.Menu;
